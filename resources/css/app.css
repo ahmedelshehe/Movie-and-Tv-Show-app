@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+body {
+    font-family: Garamond, serif;
+  }
+.popular-movies{
+    color: rgb(149, 95, 199);
+}
+
+.spinner{
+    position: absolute;
+}
